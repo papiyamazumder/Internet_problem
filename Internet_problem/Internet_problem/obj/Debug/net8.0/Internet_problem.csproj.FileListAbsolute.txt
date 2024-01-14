@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Internet_problem\Internet_problem\bin\Debug\net8.0\Internet_problem.exe
+C:\Projects\C# Projects\Internet_problem\Internet_problem\bin\Debug\net8.0\Internet_problem.deps.json
+C:\Projects\C# Projects\Internet_problem\Internet_problem\bin\Debug\net8.0\Internet_problem.runtimeconfig.json
+C:\Projects\C# Projects\Internet_problem\Internet_problem\bin\Debug\net8.0\Internet_problem.dll
+C:\Projects\C# Projects\Internet_problem\Internet_problem\bin\Debug\net8.0\Internet_problem.pdb
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\Internet_problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\Internet_problem.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\Internet_problem.AssemblyInfo.cs
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\Internet_problem.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\Internet_problem.dll
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\refint\Internet_problem.dll
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\Internet_problem.pdb
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\Internet_problem.genruntimeconfig.cache
+C:\Projects\C# Projects\Internet_problem\Internet_problem\obj\Debug\net8.0\ref\Internet_problem.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internet_problem", "Internet_problem\Internet_problem.csproj", "{F268ECE8-6B8E-4812-9E43-B6732EFC9587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F268ECE8-6B8E-4812-9E43-B6732EFC9587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F268ECE8-6B8E-4812-9E43-B6732EFC9587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F268ECE8-6B8E-4812-9E43-B6732EFC9587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F268ECE8-6B8E-4812-9E43-B6732EFC9587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA8BD3D-E63B-4E9C-908A-2C5F2F78A5B9}
+	EndGlobalSection
+EndGlobal
